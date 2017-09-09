@@ -16,13 +16,15 @@ Implementation Related Concerns:
 
 4)Are there other options for KEYES KY-040 ?
 
-5)Where to place the rotary encoder? How to tackel the problem related to reading errors when vehicle makes a turn (possibly use to rotary encoders and chose smaller reading at every turn)
+5)Where to place the rotary encoder? How to tackel the problem related to reading errors when vehicle makes a turn 
+(possibly use to rotary encoders and chose smaller reading at every turn)
 
 6) How to choose motor based on weight of vehicle? 
 
 7) What mechanism to use for steering? and hence choose appropriate steering Motor.
 
-8) If we use rack and pinion mechanism for steering, how will the front wheels return to its original/straight position after making the turn? (Use mechanism? or Use output of neural network like Gaussian steering?)
+8) If we use rack and pinion mechanism for steering, how will the front wheels return to its original/straight 
+position after making the turn? (Use mechanism? or Use output of neural network like Gaussian steering?)
 
 9) Which tiers to choose?
 
@@ -38,13 +40,15 @@ Implementation Related Concerns:
 
 15) What should be capacity of LIPO? 
 
-16) Should be use separate supply for electronics on board? Since all the motors can cause a lots of electrical noise.
+16) Should be use separate supply for electronics on board? Since all the motors can cause a 
+lots of electrical noise.
 
 17) How do we ensure that all electronics are safe from motor produced noise on power rails? 
 
 18) How do we distribute the power to whole system?
 
-19) How to make a simple Joystick to control steering during training? (Use a scrap Joystick or are there virtual options)
+19) How to make a simple Joystick to control steering during training? 
+(Use a scrap Joystick or are there virtual options)
 
 
 
