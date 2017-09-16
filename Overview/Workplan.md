@@ -20,7 +20,7 @@
 | 18                    |             | pending          | Test   the system and debug.                                             |   
 | 19                    |             | pending          | Create   websockets and transferdata to PC (Is there need of encoding ?) |   
 | 20                    |             | pending          | Collect   Training data.                                                 |   
-|:                                             ANN Development phase                                                               :|   
+|                                             *ANN Development phase*                                                                 |   
 | 21                    |             | pending          | Retrive   , parse and organise JSON data                                 |   
 | 22                    |             | pending          | Develop   ANN                                                            |   
 | 23                    |             | pending          | Develop   Image classifiers                                              |   
