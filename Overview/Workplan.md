@@ -1,12 +1,12 @@
 | Sr   No               | End   date  | Status           | Task                                                                     | 
-|-----------------------|-------------|------------------|--------------------------------------------------------------------------|
+|:---------------------:|:-----------:|:----------------:|:-------------------------------------------------------------------------|
 | 1                     | 30-Jul-17   |  done            | Complete   basic studies of Machine learning and python.                 |   
-| 2                     | 16-Sep-17   | Motors   pending | Search   for relevant modules and motors                                 |   
-| 3                     | 16-Sep-17   | ongoing          | Finalize   steering mechanism                                            |   
-| 4                     | 16-Sep-17   | ongoing          | Finalize   body material and design                                      |   
-| 5                     | 10-Aug-17   | done             | Prepare   tentative budget                                               |  
-| 6                     | 13-Sep-17   | ongoing          | Inquire   for parts and modules online and locally                       |   
-| 7                     | 14-Sep-17   | ongoing          | Prepare   final budget                                                   |   
+| 2                     | 16-Sep-17   |  done            | Search   for relevant modules and motors                                 |   
+| 3                     | 16-Sep-17   |  done            | Finalize   steering mechanism                                            |   
+| 4                     | 16-Sep-17   |  done            | Finalize   body material and design                                      |   
+| 5                     | 10-Aug-17   |  done            | Prepare   tentative budget                                               |  
+| 6                     | 13-Sep-17   |  done            | Inquire   for parts and modules online and locally                       |   
+| 7                     | 14-Sep-17   |  done            | Prepare   final budget                                                   |   
 | 8                     | 18-Sep-17   | pending          | Interface   GPS and ultrasonics                                          |   
 | 9                     | 20-Sep-17   | pending          | Interface   distance encoder                                             |   
 | 10                    | 24-Sep-17   | pending          | Interface   Arduino with R-pi                                            |   
@@ -20,7 +20,7 @@
 | 18                    |             | pending          | Test   the system and debug.                                             |   
 | 19                    |             | pending          | Create   websockets and transferdata to PC (Is there need of encoding ?) |   
 | 20                    |             | pending          | Collect   Training data.                                                 |   
-|                                             ANN Development phase                                                                 |   
+|:                                             ANN Development phase                                                               :|   
 | 21                    |             | pending          | Retrive   , parse and organise JSON data                                 |   
 | 22                    |             | pending          | Develop   ANN                                                            |   
 | 23                    |             | pending          | Develop   Image classifiers                                              |   
