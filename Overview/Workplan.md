@@ -7,15 +7,15 @@
 | 5           | 10-Aug-17   |  done            | Prepare   tentative budget                                               |  
 | 6           | 13-Sep-17   |  done            | Inquire   for parts and modules online and locally                       |   
 | 7           | 14-Sep-17   |  done            | Prepare   final budget                                                   |   
-| 8           | 18-Sep-17   | pending          | Interface   GPS and ultrasonics                                          |   
+| 8           | 18-Sep-17   | gps pending      | Interface   GPS and ultrasonics                                          |   
 | 9           | 20-Sep-17   | pending          | Interface   distance encoder                                             |   
 | 10          | 24-Sep-17   | pending          | Interface   Arduino with R-pi                                            |   
 | 11          | 24-Sep-17   | pending          | Interface   Magnetometer                                                 |   
 | 12          | 26-Sep-17   | pending          | Interface   Pi-Camera                                                    |   
-| 13          | 27-Sep-17   | pending          | Interface   Motors and Motordrivers                                      |   
+| 13          | 27-Sep-17   | done             | Interface   Motors and Motordrivers                                      |   
 | 14          |             | pending          | Finalize   a power distribution system (ensure proper protections)       |   
 | 15          |             | pending          | Incrementally   interconnect all electronic components (Try Threading)   |   
-| 16          |             | pending          | Assemble   the Body.                                                     |   
+| 16          |             | done             | Assemble   the Body.                                                     |   
 | 17          |             | pending          | Integrate   electronics.                                                 |   
 | 18          |             | pending          | Test   the system and debug.                                             |   
 | 19          |             | pending          | Create   websockets and transferdata to PC (Is there need of encoding ?) |   
