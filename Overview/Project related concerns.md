@@ -1,7 +1,7 @@
 ## **General Concerns:**
 
-- [ ] 1) What is the total cost of the project?
-
+- [X] 1) What is the total cost of the project?
+      Ans) 1500 INR
 
 
 ## **Implementation Related Concerns:**
