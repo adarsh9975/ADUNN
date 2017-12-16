@@ -8,11 +8,11 @@
 | 6           | 13-Sep-17   |  done            | Inquire   for parts and modules online and locally                       |   
 | 7           | 14-Sep-17   |  done            | Prepare   final budget                                                   |   
 | 8           | 18-Sep-17   |  done            | Interface   GPS and ultrasonics                                          |   
-| 9           | 20-Sep-17   | pending          | Interface   distance encoder                                             |   
+| 9           | 20-Sep-17   |  done            | Interface   distance encoder                                             |   
 | 10          | 24-Sep-17   |  done            | Interface   Arduino with R-pi                                            |   
-| 11          | 24-Sep-17   | ongoing          | Interface   Magnetometer                                                 |   
-| 12          | 26-Sep-17   | pending          | Interface   Pi-Camera                                                    |   
-| 13          | 27-Sep-17   | done             | Interface   Motors and Motordrivers                                      |   
+| 11          | 24-Sep-17   |  done            | Interface   Magnetometer                                                 |   
+| 12          | 26-Sep-17   | ongoing          | Interface   Pi-Camera                                                    |   
+| 13          | 27-Sep-17   | ongoing          | Interface   Motors and Motordrivers                                      |   
 | 14          |             | pending          | Finalize   a power distribution system (ensure proper protections)       |   
 | 15          |             | pending          | Incrementally   interconnect all electronic components (Try Threading)   |   
 | 16          |             | done             | Assemble   the Body.                                                     |   
