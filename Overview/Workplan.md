@@ -11,17 +11,17 @@
 | 9           | 20-Sep-17   |  done            | Interface   distance encoder                                             |   
 | 10          | 24-Sep-17   |  done            | Interface   Arduino with R-pi                                            |   
 | 11          | 24-Sep-17   |  done            | Interface   Magnetometer                                                 |   
-| 12          | 26-Sep-17   |  done            | Interface   Pi-Camera                                                    |   
-| 13          | 27-Sep-17   | ongoing          | Interface   Motors and Motordrivers                                      |   
-| 14          |             | pending          | Finalize   a power distribution system (ensure proper protections)       |   
-| 15          |             | pending          | Incrementally   interconnect all electronic components (Try Threading)   |   
-| 16          |             | done             | Assemble   the Body.                                                     |   
-| 17          |             | pending          | Integrate   electronics.                                                 |   
-| 18          |             | pending          | Test   the system and debug.                                             |   
-| 19          |             | done             | Create   websockets and transferdata to PC (Is there need of encoding ?) |   
-| 20          |             | pending          | Collect   Training data.                                                 |   
+| 12          | 26-Sep-17   |  done            | Interface   Pi-Camera                                                    |
+| 13          |             |  done            | Create   websockets and transferdata to PC (Is there need of encoding ?) |   
+| 14          |             | ongoing          | Retrive   , parse and organise JSON data                                 |   
+| 15          | 27-Sep-17   | ongoing          | Interface   Motors and Motordrivers                                      |   
+| 16          |             | pending          | Finalize   a power distribution system (ensure proper protections)       |   
+| 17          |             | pending          | Incrementally   interconnect all electronic components (Try Threading)   |   
+| 18          |             | done             | Assemble   the Body.                                                     |   
+| 19          |             | pending          | Integrate   electronics.                                                 |   
+| 20          |             | pending          | Test   the system and debug.                                             |      
 |             |             |       *ANN Development phase* |                                                             |   
-| 21          |             | pending          | Retrive   , parse and organise JSON data                                 |   
+| 21          |             | pending          | Collect   Training data.                                                 |   
 | 22          |             | pending          | Develop   ANN                                                            |   
 | 23          |             | pending          | Develop   Image classifiers                                              |   
 | 24          |             | pending          | Design   Monocular-vision Distance measurement                           |   
