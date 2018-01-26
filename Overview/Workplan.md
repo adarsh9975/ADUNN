@@ -13,20 +13,21 @@
 | 11          | 24-Sep-17   |  done            | Interface   Magnetometer                                                 |   
 | 12          | 26-Sep-17   |  done            | Interface   Pi-Camera                                                    |
 | 13          |             |  done            | Create   websockets and transferdata to PC (Is there need of encoding ?) |   
-| 14          |             | ongoing          | Retrive   , parse and organise JSON data                                 |   
+| 14          |             |  done            | Retrive   , parse and organise JSON data                                 |   
 | 15          | 27-Sep-17   | ongoing          | Interface   Motors and Motordrivers                                      |   
 | 16          |             | pending          | Finalize   a power distribution system (ensure proper protections)       |   
 | 17          |             | pending          | Incrementally   interconnect all electronic components (Try Threading)   |   
 | 18          |             | done             | Assemble   the Body.                                                     |   
 | 19          |             | pending          | Integrate   electronics.                                                 |   
 | 20          |             | pending          | Test   the system and debug.                                             |      
-|             |             |       *ANN Development phase* |                                                             |   
-| 21          |             | pending          | Collect   Training data.                                                 |   
-| 22          |             | pending          | Develop   ANN                                                            |   
-| 23          |             | pending          | Develop   Image classifiers                                              |   
-| 24          |             | pending          | Design   Monocular-vision Distance measurement                           |   
-| 25          |             | pending          | Train   Image classifiers and Driving Neural Networks                    |   
-| 26          |             | pending          | Design   Driving command issuing module to transmit commands to R-pi     |   
+|             |             |       *ANN Development phase* |                                                             | 
+
+| 21          |             | pending          | Design   Driving command issuing module to transmit commands to R-pi     | 
+| 22          |             | pending          | Collect   Training data.                                                 |   
+| 23          |             | ongoing          | Develop   ANN                                                            |   
+| 24          |             | ongoing          | Develop   Image classifiers                                              |   
+| 25          |             | pending          | Design   Monocular-vision Distance measurement                           |   
+| 26          |             | pending          | Train   Image classifiers and Driving Neural Networks                    |     
 | 27          |             | pending          | Degugging   and Improvements.                                            |   
 | 28          |             |                  |                                                                          |  
 | 29          |             |                  |                                                                          |
