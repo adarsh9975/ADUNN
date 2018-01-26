@@ -21,7 +21,6 @@
 | 19          |             | pending          | Integrate   electronics.                                                 |   
 | 20          |             | pending          | Test   the system and debug.                                             |      
 |             |             |       *ANN Development phase* |                                                             | 
-
 | 21          |             | pending          | Design   Driving command issuing module to transmit commands to R-pi     | 
 | 22          |             | pending          | Collect   Training data.                                                 |   
 | 23          |             | ongoing          | Develop   ANN                                                            |   
